@@ -18,7 +18,7 @@ public class TestGlobalTimeout {
         }
     }
 
-    @Test
+    @Test//
     public void testInfinityForLoop(){
         while (true) {
             return;
